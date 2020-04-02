@@ -4,13 +4,21 @@
 
 MERN stack is the idea of using Javascript/Node for fullstack web development.
 
-## clone or download
+## Fork the Repo
+[Fork]https://github.com/Hack-Wine-Country this repository and clone it locally.
+
 ```terminal
-$ git clone https://github.com/amazingandyyy/mern.git
+$ git clone https://github.com/Hack-Wine-Country/MERN.git
 $ npm i
 ```
 
-## project structure
+Connect your local to the original "upstream" repository by adding it as[remote]https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork
+
+Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
+
+See more detailed instructions through this GitHub article called "Syncing a Fork" [https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork].
+
+## Project Structure
 ```terminal
 LICENSE
 package.json
@@ -111,15 +119,3 @@ After signing in user can go to account route and make request to token-protecte
 ## Standard
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-
-## BUGs or comments
-
-[Create new Issues](https://github.com/amazingandyyy/mern/issues) (preferred)
-
-Email Me: amazingandyyy@gmail.com (welcome, say hi)
-
-## Author
-[Amazingandyyy](https://amazingandyyy.com)
-
-### License
-[MIT](https://github.com/amazingandyyy/mern/blob/master/LICENSE)
