@@ -5,18 +5,18 @@
 MERN stack is the idea of using Javascript/Node for fullstack web development.
 
 ## Fork the Repo
-[Fork]https://github.com/Hack-Wine-Country this repository and clone it locally.
+[Fork](https://github.com/Hack-Wine-Country) this repository and clone it locally.
 
 ```terminal
 $ git clone https://github.com/Hack-Wine-Country/MERN.git
 $ npm i
 ```
 
-Connect your local to the original "upstream" repository by adding it as[remote]https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork
+Connect your local to the original "upstream" repository by adding it as[remote](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)
 
 Pull in changes from "upstream" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely.
 
-See more detailed instructions through this GitHub article called "Syncing a Fork" [https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork].
+See more detailed instructions through this GitHub article called ["Syncing a Fork"](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
 
 ## Project Structure
 ```terminal
