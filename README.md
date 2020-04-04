@@ -121,3 +121,5 @@ After signing in user can go to account route and make request to token-protecte
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
 -- change to readme test push
+
+## Contributors
