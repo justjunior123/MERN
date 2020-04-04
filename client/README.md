@@ -45,5 +45,8 @@ After signing in user can go to account page and make request to token-protected
 - Feel free to find me on _[GitHub](https://github.com/amazingandyyy)_ and _[LiveCoding](https://www.livecoding.tv/amazingandyyy/)_
 - or visit my _[page](http://amazingandyyy.github.io/)_
 
+
+## Contributors
+
 ### License
 [MIT](https://github.com/amazingandyyy/eventbrite-api/blob/master/LICENSE)
