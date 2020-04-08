@@ -123,7 +123,8 @@ After signing in user can go to account route and make request to token-protecte
 -- change to readme test push
 
 ## Contributors
-William Mendoza Gopar
-Juan Soto
+* William Mendoza Gopar
 
+* Juan Soto
 
+* Alejandro Chavez
